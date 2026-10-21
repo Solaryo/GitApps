@@ -31,6 +31,8 @@
         "skins",
         "themes",
         "translations"
+        "accounts.json"
+        "prismlauncher.cfg"
     ],
     "checkver": {
         "github": "https://github.com/Diegiwg/PrismLauncher-Cracked"
