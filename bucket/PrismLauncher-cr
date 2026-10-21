@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.3/PrismLauncher-Windows-MinGW-w64-Portable-11.0.3.zip",
-            "hash": "62E7F814E4D5BADDEE1531B60D174F21AE2B34D2397CCABFF97BE65004E293D9 "
+            "hash": "62E7F814E4D5BADDEE1531B60D174F21AE2B34D2397CCABFF97BE65004E293D9"
         }
     },
     "shortcuts": [
@@ -31,7 +31,7 @@
         "skins",
         "themes",
         "translations"
-    ],	
+    ],
     "checkver": {
         "github": "https://github.com/Diegiwg/PrismLauncher-Cracked"
     },
