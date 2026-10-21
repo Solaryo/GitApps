@@ -30,8 +30,8 @@
         "mods",
         "skins",
         "themes",
-        "translations"
-        "accounts.json"
+        "translations",
+        "accounts.json",
         "prismlauncher.cfg"
     ],
     "checkver": {
