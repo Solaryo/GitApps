@@ -1,6 +1,8 @@
 # Scoop
 
-A scoop bucket for apps i found and are not yet in main scoop buckets
+A Scoop bucket for apps I've found that aren't yet available in the main Scoop buckets.
+
 ## Current Apps
+
 - SolidCraft (x64)
 - Prism (off)
