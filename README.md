@@ -6,3 +6,4 @@ A Scoop bucket for apps I've found that aren't yet available in the main Scoop b
 
 - SolidCraft (x64)
 - Prism (off)
+- Tag Studio
