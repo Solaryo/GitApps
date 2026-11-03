@@ -1,13 +1,12 @@
-
 {
-    "version": "11.0.3",
+    "version": "11.1.1",
     "description": "Fork of Prism Launcher enabling offline accounts without Microsoft authentication. Not affiliated with the official project.",
     "homepage": "https://github.com/Diegiwg/PrismLauncher-Crackedt",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.3/PrismLauncher-Windows-MinGW-w64-Portable-11.0.3.zip",
-            "hash": "62E7F814E4D5BADDEE1531B60D174F21AE2B34D2397CCABFF97BE65004E293D9"
+            "url": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.1.1/PrismLauncher-Windows-MinGW-w64-Portable-11.1.1.zip",
+            "hash": "4962ca58f88de20fab60fa1b1a65181db428335e11ffa108f6e6112de8f07d9d"
         }
     },
     "shortcuts": [
